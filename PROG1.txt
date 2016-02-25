@@ -1,0 +1,11 @@
+1.guitarra-http://dle.rae.es/?id=Js6RJGg
+2.batería-http://dle.rae.es/?id=5DKMIaQ
+3.bajo-http://dle.rae.es/?id=4oyrC6G
+4.voz-http://dle.rae.es/?id=c4LfLPC
+5.saxofón-http://dle.rae.es/?id=XMgSp9W
+6.trompeta-http://dle.rae.es/?id=am2UwYy
+7.violín-http://dle.rae.es/?id=brrizQx
+8.piano-http://dle.rae.es/?id=SrhwDrE|Srl4pbt
+9.clarinete-http://dle.rae.es/?id=9PYqnXw
+10.flauta-http://dle.rae.es/?id=I3rm1yY
+
